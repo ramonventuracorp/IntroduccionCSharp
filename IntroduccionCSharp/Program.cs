@@ -1,4 +1,5 @@
-﻿// TIPOS DE DATOS EN C#
+﻿// RAMON HUMBERTO VENTURA RODRIGUEZ
+// TIPOS DE DATOS EN C#
 int numeroEntero = 10;
 string texto = "Hola, Mundo!";
 double numeroDecimal = 3.14;
