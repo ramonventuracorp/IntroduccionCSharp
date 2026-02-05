@@ -1,4 +1,5 @@
 ﻿// RAMON HUMBERTO VENTURA RODRIGUEZ
+// Lugar de residencia: Comayagua
 // TIPOS DE DATOS EN C#
 int numeroEntero = 10;
 string texto = "Hola, Mundo!";
