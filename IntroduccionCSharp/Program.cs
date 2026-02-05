@@ -1,5 +1,7 @@
 ﻿// RAMON HUMBERTO VENTURA RODRIGUEZ
 // Lugar de residencia: Comayagua
+// COMIDA FAVORITA: Papas fritas
+
 // TIPOS DE DATOS EN C#
 int numeroEntero = 10;
 string texto = "Hola, Mundo!";
